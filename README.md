@@ -98,7 +98,7 @@ server.port=8080
   
 ## Documentation
 
-[Documentation using postman](https://web.postman.co/workspace/Learning~efeac421-5172-4b7c-8053-f73199fdd11c/documentation/17189133-882aa3c3-a817-4bc6-b138-abf1d955aa48)
+[Documentation using postman](https://documenter.getpostman.com/view/17189133/UUxxh8gQ)
 
 ## 🚀 About Me
 I'm a fresher java back end developer , completed bachelor's degree in computer engineering in 2020.
